@@ -4,7 +4,7 @@ import re #this stands for import regular expressions
 #In the creation of a password #at least 6 digits (no less)
 #at least one number
 #at least one character
-
+#validation
 #TASK: ANALYSE THE WAY THE WHILE LOOP WORKS. Add messages to warn the user
 #when they are getting it wrong for uppercase, character, and blank space....
 
