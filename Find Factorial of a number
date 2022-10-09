@@ -1,4 +1,5 @@
 def fact(num):
+# get the number from user
   num = int(input("Enter the number"))
   c= 1
   for i in range(1,num+1):
