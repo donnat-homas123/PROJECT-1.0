@@ -8,7 +8,7 @@ gui= Gui(
     [_,'suite',_],
     [_, Quit, _]
     )
-
+# input from player
 def shuffle(gui):
     n= random.randint(1,13)
     if (n== 1):
